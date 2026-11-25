@@ -60,7 +60,7 @@ The application provides an interactive platform for travelers and property owne
 | Connect Flash | Success and error messages |
 
 ## 📂 Project Structure
-
+```text
 project/
 │
 ├── app.js
@@ -93,5 +93,5 @@ project/
 │
 ├── package.json
 └── .gitignore
-
+```
 
